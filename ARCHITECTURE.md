@@ -1,9 +1,5 @@
 # Advanced Transcriber - Architecture Documentation
 
-**Copy this file to the new `advanced-transcriber` repository**
-
----
-
 ## Overview
 
 Advanced Transcriber is a headless transcription service that processes audio streams through multiple STT engines and consolidates the results using LLM technology for improved accuracy.
